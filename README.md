@@ -8,6 +8,8 @@
 ### [symbols.rar](https://disk.yandex.ru/d/U41QZ8v7cpJ6R)
 #### Thanks  maltsevanton@ya.ru
 
+### [Dataser Belarus](https://nomeroff.net.ua/datasets/autoriaNumberplateOcrBy-2020-10-09.zip)
+
 ### [Car License Plate Detection](https://www.kaggle.com/andrewmvd/car-plate-detection)
 
 
