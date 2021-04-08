@@ -7,3 +7,5 @@
 ### [FullPlate.rar](https://disk.yandex.ru/d/0H2AipxrcrXqy)
 ### [symbols.rar](https://disk.yandex.ru/d/U41QZ8v7cpJ6R)
 
+### [Car License Plate Detection](https://www.kaggle.com/andrewmvd/car-plate-detection)
+
