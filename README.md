@@ -12,7 +12,7 @@
 
 
 ## Links
-#### [Нейронные сети в детектировании номеров] (https://habr.com/ru/company/recognitor/blog/329636/)
+#### [Нейронные сети в детектировании номеров](https://habr.com/ru/company/recognitor/blog/329636/)
 #### [Распознавание номеров: от А до 9](https://habr.com/ru/company/recognitor/blog/221891/)
 
 #### Belarus, car number in other place, dataset from youtube videos
