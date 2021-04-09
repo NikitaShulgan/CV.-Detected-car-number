@@ -19,6 +19,7 @@
 #### [Нейронные сети в детектировании номеров](https://habr.com/ru/company/recognitor/blog/329636/)
 #### [Распознавание номеров: от А до 9](https://habr.com/ru/company/recognitor/blog/221891/)
 #### [Nomeroff-net](https://github.com/ria-com/nomeroff-net)
+#### [Распознавание номеров. Как мы получили 97% точности для Украинских номеров. Часть 2](https://habr.com/ru/post/439330/)
 
 #### Belarus, car number in other place, dataset from youtube videos
 
